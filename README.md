@@ -2,10 +2,10 @@
 <!-- <h2 align='center'>Swarnapudi Ishwar @ pudiish</h2>
 <p align='center'><b>Under Graduate Student at SRM UNIVERSITY AP ANDHRA PRADESH</b></p> -->
 
-<h2>Hey! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/></h2>
+<h1>Hey! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/></h1>
 
 
-I'm Swarnapudi Ishwar! 
+<h2>I'm Swarnapudi Ishwar!</h2> 
 - <i>Currently:</i> BTech CS Student at SRM UNIVERSITY AP ANDHRA PRADESH.
 
 <h2>💻 I'm Currently workng on</h2>
@@ -14,8 +14,10 @@ I'm Swarnapudi Ishwar!
 - Software Engineering
 
 <h2> About Ishwar⚡:</h2>
-
+<p><b>
 I'm a Under Graduate Student living in Andra Pradesh, IND, I love to read, enjoy music and explore nature outdoors. If you are around Vijaywada, drop an email and let's catch-up over Coffee!
+</b>
+</p>
 <br>
 ---
 
