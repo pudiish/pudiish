@@ -16,8 +16,7 @@
 <h2> About Ishwar⚡:</h2>
 <p><b>
 I'm a Under Graduate Student living in Andra Pradesh, IND, I love to read, enjoy music and explore nature outdoors. If you are around Vijaywada, drop an email and let's catch-up over Coffee!
-</b>
-</p>
+</b></p>
 <br>
 ---
 
