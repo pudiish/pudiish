@@ -1,10 +1,9 @@
-![Swarnapudi Ishwar Banner Image](./banner.png)
+![Swarnapudi Ishwar Banner Image](./banner1.png)
 <!-- <h2 align='center'>Swarnapudi Ishwar @ pudiish</h2>
 <p align='center'><b>Under Graduate Student at SRM UNIVERSITY AP ANDHRA PRADESH</b></p> -->
 
 <h2>Hey! 👋</h2>
 
-[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=laxmena.laxmena)](https://github.com/pudiish) [![GitHub followers](https://img.shields.io/github/followers/laxmena.svg?style=social&label=Follow)](https://github.com/laxmena?tab=followers)
 
 I'm Swarnapudi Ishwar! 
 - <i>Currently:</i> BTech CS Student at SRM UNIVERSITY AP ANDHRA PRADESH.
