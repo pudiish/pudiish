@@ -1,20 +1,19 @@
-![Swarnapudi Ishwar Banner Image](./banner1.png)
+![Swarnapudi Ishwar Banner Image](./banner.png)
 
-# Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
+<h1 align="center">Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/></h1>
 
-## I'm Swarnapudi Ishwar, a BTech 3rd year student specializing in Cybersecurity at SRM University, AP.
+<h2 align="center">I'm Swarnapudi Ishwar, a BTech 3rd year student specializing in Cybersecurity at SRM University, AP.</h2>
 
-### 👨‍💻 Currently Working On:
-- IoT
-- Software Engineering
+<h3 align="center">👨‍💻 Currently Working On:</h3>
+<p align="center">IoT | Software Engineering</p>
 
-### ⚡ About Me:
-I'm an enthusiastic student passionate about Cybersecurity and exploring the tech world. When I'm not buried in code, you'll find me enjoying music, reading, or out in nature. If you're around Vijayawada, let's connect over coffee!
+<h3 align="center">⚡ About Me:</h3>
+<p align="center">I'm an enthusiastic student passionate about Cybersecurity and exploring the tech world. When I'm not buried in code, you'll find me enjoying music, reading, or out in nature. If you're around Vijayawada, let's connect over coffee!</p>
 
 ---
 
-### 🔧 Languages and Tools:
-<div>
+<h3 align="center">🔧 Languages and Tools:</h3>
+<p align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>
@@ -27,11 +26,13 @@ I'm an enthusiastic student passionate about Cybersecurity and exploring the tec
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="Photoshop" alt="Photoshop" width="40" height="40"/>
-</div>
+</p>
 
 ---
 
-### 📫 How to Reach Me:
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:swarnapudiishwar@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swarnapudi-ishwar-baa1411b0/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pudiish/)
+<h3 align="center">📫 How to Reach Me:</h3>
+<p align="center">
+  <a href="mailto:swarnapudiishwar@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://www.linkedin.com/in/swarnapudi-ishwar-baa1411b0/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.instagram.com/pudiish/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+</p>
