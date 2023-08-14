@@ -5,7 +5,7 @@
 </head>
 <body>
   <header>
-    <img src="./banner.png" alt="Swarnapudi Ishwar Banner Image">
+    <img src="./banner1.png" alt="Swarnapudi Ishwar Banner Image">
     <h1>Hey! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/></h1>
     <h2>I'm Swarnapudi Ishwar!</h2>
     <p class="tagline">Exploring the world of IoT and Software Engineering</p>
