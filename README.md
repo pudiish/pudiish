@@ -1,4 +1,4 @@
-![Swarnapudi Ishwar Banner Image](./banner1.png)
+![Swarnapudi Ishwar Banner Image](./banner.png)
 <!-- <h2 align='center'>Swarnapudi Ishwar @ pudiish</h2>
 <p align='center'><b>Under Graduate Student at SRM UNIVERSITY AP ANDHRA PRADESH</b></p> -->
 
